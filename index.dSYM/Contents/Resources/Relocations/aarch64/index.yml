@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/emirhanozcelik/Desktop/Roket/Yazılım2/1.görev/index"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _matrisi_dondur, symObjAddr: 0x0, symBinAddr: 0x1000038B0, symSize: 0x280 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _matrisi_dondur, symObjAddr: 0x0, symBinAddr: 0x1000038B0, symSize: 0x280 }
+  - { offsetInCU: 0xAB, offset: 0xAB, size: 0x8, addend: 0x0, symName: _matrisi_yazdir, symObjAddr: 0x280, symBinAddr: 0x100003B30, symSize: 0xC8 }
+  - { offsetInCU: 0xF9, offset: 0xF9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x348, symBinAddr: 0x100003BF8, symSize: 0x24C }
+...
